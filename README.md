@@ -52,7 +52,6 @@ If ChatGPT prompts for a verification code (MFA):
 
 Conversation data is saved to:
 
-Conversation data is saved to:
 
 ```bash
 src/data/conversations.csv
